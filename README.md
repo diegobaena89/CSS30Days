@@ -1,6 +1,23 @@
 # 🚀 CSS30Days 🚀
 ## Desafio CSS 30 - 1 projeto por dia
 
+---
+
+[Dia 01 - Ícone de Social Media com hover em camadas](https://github.com/diegobaena89/CSS30Days/tree/main/01day_CSS%203D%20Layered%20Social%20Media%20Icon%20Hover%20Effects "Dia 01 - Ícone de Social Media com hover em camadas")
+
+[Dia 02 - Loader Animado em CSS puro](https://github.com/diegobaena89/CSS30Days/tree/main/02Day_Animate%20Loader "Dia 02 - Loader Animado em CSS puro")
+
+[Dia 03 - Texto que muda de cor ao cruzar uma Div](https://github.com/diegobaena89/CSS30Days/tree/main/03Day_Text%20Change%20Color%20DIV "Dia 03 - Texto que muda de cor ao cruzar uma Div")
+
+[Dia 04 - Profile Card](https://github.com/diegobaena89/CSS30Days/tree/main/04Day_Profile%20Card "Dia 04 - Profile Card")
+
+[Dia 05 - Hamburher Menu](https://github.com/diegobaena89/CSS30Days/tree/main/05Day_hamburguer%20menu "Dia 05 - Hamburher Menu").
+
+
+
+
+---
+
 ### Dia 01 - Ícone de Social Media com hover em camadas
 --
     *Uso da Tag <span> para criação de camadas
