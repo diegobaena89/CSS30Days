@@ -8,6 +8,7 @@
 3. [Dia 03 - Texto que muda de cor ao cruzar uma Div](https://github.com/diegobaena89/CSS30Days/tree/main/03Day_Text%20Change%20Color%20DIV "Dia 03 - Texto que muda de cor ao cruzar uma Div")
 4. [Dia 04 - Profile Card](https://github.com/diegobaena89/CSS30Days/tree/main/04Day_Profile%20Card "Dia 04 - Profile Card")
 5. [Dia 05 - Hamburher Menu](https://github.com/diegobaena89/CSS30Days/tree/main/05Day_hamburguer%20menu "Dia 05 - Hamburher Menu").
+6. [Dia 06 - Video inside Text](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/06Day%20-%20Video%20inside%20Text/athens3.gif "Dia 06 - Video Inside Text").
 
 
 
@@ -59,3 +60,14 @@
       *overflow hidden  
    
 ![hamburger](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/05Day_hamburguer%20menu/menu.gif)
+
+---
+
+### Dia 06 - Vídeo dentro de Texto
+--
+
+      *importação de font do Google Fonts para escrita em alfabeto grego
+      *video input
+      *uso do object-fit em css para o ajuste do vídeo com o texto
+      
+![video](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/06Day%20-%20Video%20inside%20Text/athens3.gif)
