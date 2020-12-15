@@ -71,3 +71,14 @@
       *uso do object-fit em css para o ajuste do vídeo com o texto
       
 ![video](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/06Day%20-%20Video%20inside%20Text/athens3.gif)
+
+---
+
+### Dia 07 - Card Skew Border
+--
+
+      *imersão nas propriedades transform, skew e translateY do CSS
+      *background linear gradient
+      *hue-rotate
+
+![skew]()https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/07Day%20-%20Card%20Skewed%20Border/skew.gif
