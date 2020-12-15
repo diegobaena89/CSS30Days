@@ -9,6 +9,7 @@
 4. [Dia 04 - Profile Card](https://github.com/diegobaena89/CSS30Days/tree/main/04Day_Profile%20Card "Dia 04 - Profile Card")
 5. [Dia 05 - Hamburher Menu](https://github.com/diegobaena89/CSS30Days/tree/main/05Day_hamburguer%20menu "Dia 05 - Hamburher Menu").
 6. [Dia 06 - Video inside Text](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/06Day%20-%20Video%20inside%20Text/athens3.gif "Dia 06 - Video Inside Text").
+7. [Dia 07 - Card Skew Border](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/07Day%20-%20Card%20Skewed%20Border/skew.gif "Dia 07 - Card Skew Border").
 
 
 
@@ -81,4 +82,4 @@
       *background linear gradient
       *hue-rotate
 
-![skew]()https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/07Day%20-%20Card%20Skewed%20Border/skew.gif
+![skew](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/07Day%20-%20Card%20Skewed%20Border/skew.gif)
