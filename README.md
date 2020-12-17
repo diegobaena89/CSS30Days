@@ -10,6 +10,7 @@
 5. [Dia 05 - Hamburher Menu](https://github.com/diegobaena89/CSS30Days/tree/main/05Day_hamburguer%20menu "Dia 05 - Hamburher Menu").
 6. [Dia 06 - Video inside Text](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/06Day%20-%20Video%20inside%20Text/athens3.gif "Dia 06 - Video Inside Text").
 7. [Dia 07 - Card Skew Border](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/07Day%20-%20Card%20Skewed%20Border/skew.gif "Dia 07 - Card Skew Border").
+8. [Dia 08 - Neon Text](https://github.com/diegobaena89/CSS30Days/blob/main/08Day%20-%20Texto%20Neon/readme.md "Dia 08 - Neon Text").
 
 
 
@@ -83,3 +84,18 @@
       *hue-rotate
 
 ![skew](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/07Day%20-%20Card%20Skewed%20Border/skew.gif)
+
+---
+
+### Dia 08 - Texto em Neon
+--
+
+# Texto em Neon
+## em html e css puro
+
+    *criação de checkbox's em HTML
+    *estilização dos checkbox's em Css 
+    *animation glow linear infinite
+    *manipulação de keyframes
+    
+![neon](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/08Day%20-%20Texto%20Neon/glowing.gif)
