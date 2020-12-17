@@ -18,20 +18,20 @@
 ---
 
 ### Dia 01 - Ícone de Social Media com hover em camadas
---
-    *Uso da Tag <span> para criação de camadas
-    *Hover effect
-    *Transition e Transform com CSS
-    *nth-child( )
+
+- [x] Uso da Tag <span> para criação de camadas
+- [x] Hover effect
+- [x] Transition e Transform com CSS
+- [x] nth-child( )
   
  
  ![Day01](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/01day_CSS%203D%20Layered%20Social%20Media%20Icon%20Hover%20Effects/day01.gif)
---
+
 ---
 
 ### Dia 02 - Loader Animado em CSS puro
---
-      *Uso das propriedades Transform, Animate e Translate em CSS puro
+
+- [x] Uso das propriedades Transform, Animate e Translate em CSS puro
       
  
  ![Day02](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/02Day_Animate%20Loader/day02.gif)
@@ -39,63 +39,63 @@
 ---
 
 ### Dia 03 - Texto que muda de cor ao cruzar uma Div
---
-      *Uso da propriedade Animation
-      *aprofundamento do conceito de overflow no CSS
-      
+
+- [x] Uso da propriedade Animation
+- [x] aprofundamento do conceito de overflow no CSS
+    
+    
 ![Day03](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/03Day_Text%20Change%20Color%20DIV/day03.gif)
 
 ---
 
 ### Dia 04 - Profile Card
---
-      *Uso da propriedade anime e transform
-      *manipulação de @keyframes
+
+- [x] Uso da propriedade anime e transform
+- [x] manipulação de @keyframes
+      
       
 ![day04](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/04Day_Profile%20Card/card.gif)
 
 ---
 
 ### Dia 05 - Hamburher Menu
---
-      *uso de transform e transition
-      *overflow hidden  
+
+- [x] uso de transform e transition
+- [x] overflow hidden  
+   
    
 ![hamburger](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/05Day_hamburguer%20menu/menu.gif)
 
 ---
 
 ### Dia 06 - Vídeo dentro de Texto
---
 
-      *importação de font do Google Fonts para escrita em alfabeto grego
-      *video input
-      *uso do object-fit em css para o ajuste do vídeo com o texto
+- [x] importação de font do Google Fonts para escrita em alfabeto grego
+- [x] video input
+- [x] uso do object-fit em css para o ajuste do vídeo com o texto
+      
       
 ![video](https://github.com/diegobaena89/CSS30Days/tree/main/06Day%20-%20Video%20inside%20Text)
 
 ---
 
 ### Dia 07 - Card Skew Border
---
 
-      *imersão nas propriedades transform, skew e translateY do CSS
-      *background linear gradient
-      *hue-rotate
+- [x] imersão nas propriedades transform, skew e translateY do CSS
+- [x] background linear gradient
+- [x] hue-rotate
+
 
 ![skew](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/07Day%20-%20Card%20Skewed%20Border/skew.gif)
 
 ---
 
 ### Dia 08 - Texto em Neon
---
 
-# Texto em Neon
-## em html e css puro
-
-    *criação de checkbox's em HTML
-    *estilização dos checkbox's em Css 
-    *animation glow linear infinite
-    *manipulação de keyframes
+- [x] criação de checkbox's em HTML
+- [x] estilização dos checkbox's em Css 
+- [x] animation glow linear infinite
+- [x] manipulação de keyframes
+    
     
 ![neon](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/08Day%20-%20Texto%20Neon/glowing.gif)
