@@ -11,6 +11,7 @@
 6. [Dia 06 - Video inside Text](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/06Day%20-%20Video%20inside%20Text/athens3.gif "Dia 06 - Video Inside Text").
 7. [Dia 07 - Card Skew Border](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/07Day%20-%20Card%20Skewed%20Border/skew.gif "Dia 07 - Card Skew Border").
 8. [Dia 08 - Neon Text](https://github.com/diegobaena89/CSS30Days/blob/main/08Day%20-%20Texto%20Neon/readme.md "Dia 08 - Neon Text").
+9. [Dia 09 - List Hover Style](https://github.com/diegobaena89/CSS30Days/blob/main/09Day%20-%20Hover%20List%20Style/readme.md "Dia 09 - List Hover Style").
 
 
 
@@ -99,3 +100,13 @@
     
     
 ![neon](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/08Day%20-%20Texto%20Neon/glowing.gif)
+
+---
+
+### Dia 09 - List Hover Style
+
+- [x] manipulação de elementos com nth-chil()
+- [x] transform scale
+- [x] hover style
+
+![list](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/09Day%20-%20Hover%20List%20Style/hover.gif)
