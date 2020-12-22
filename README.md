@@ -12,6 +12,7 @@
 7. [Dia 07 - Card Skew Border](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/07Day%20-%20Card%20Skewed%20Border/skew.gif "Dia 07 - Card Skew Border").
 8. [Dia 08 - Neon Text](https://github.com/diegobaena89/CSS30Days/blob/main/08Day%20-%20Texto%20Neon/readme.md "Dia 08 - Neon Text").
 9. [Dia 09 - List Hover Style](https://github.com/diegobaena89/CSS30Days/blob/main/09Day%20-%20Hover%20List%20Style/readme.md "Dia 09 - List Hover Style").
+10. [Dia 10 - Rainy Background](https://github.com/diegobaena89/CSS30Days/tree/main/10Day%20-%20Rainy%20Background "Dia 10 - Rainy Background").
 
 
 
@@ -110,3 +111,14 @@
 - [x] hover style
 
 ![list](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/09Day%20-%20Hover%20List%20Style/hover.gif)
+
+---
+
+### Rainy Background
+
+- [x] Em Css puro
+- [x] Uso de animation linear e infinite
+- [x] manipulação de @keyframes
+- [x] hue-rotate
+
+![background rain](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/10Day%20-%20Rainy%20Background/rainy.gif)
