@@ -14,6 +14,7 @@
 9. [Dia 09 - List Hover Style](https://github.com/diegobaena89/CSS30Days/blob/main/09Day%20-%20Hover%20List%20Style/readme.md "Dia 09 - List Hover Style").
 10. [Dia 10 - Rainy Background](https://github.com/diegobaena89/CSS30Days/tree/main/10Day%20-%20Rainy%20Background "Dia 10 - Rainy Background").
 11. [Dia 11 - Cloud Animation](https://github.com/diegobaena89/CSS30Days/tree/main/11Day%20-%20Coud%20Animation "Dia 11 - Cloud Animation").
+12. [Dia 12 - Text Jumping](https://github.com/diegobaena89/CSS30Days/blob/main/Day12%20-%20Text%20Jumping/readme.md "Dia 12 - Text Jumping").
 
 
 
@@ -131,3 +132,14 @@
 - [x] Manipulação de Animations e Keyframes
 
 ![cloud](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/11Day%20-%20Coud%20Animation/cloud.gif)
+
+---
+
+### Text Jumping
+
+- [x] animation bounce eade infinite alternate entre os elementos span do html
+- [x] text shadow
+- [x] animation -delay para cada span
+- [x] manipulação de @keyframes
+
+![textJumping](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/Day12%20-%20Text%20Jumping/text.gif)
