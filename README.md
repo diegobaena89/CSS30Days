@@ -15,6 +15,7 @@
 10. [Dia 10 - Rainy Background](https://github.com/diegobaena89/CSS30Days/tree/main/10Day%20-%20Rainy%20Background "Dia 10 - Rainy Background").
 11. [Dia 11 - Cloud Animation](https://github.com/diegobaena89/CSS30Days/tree/main/11Day%20-%20Coud%20Animation "Dia 11 - Cloud Animation").
 12. [Dia 12 - Text Jumping](https://github.com/diegobaena89/CSS30Days/blob/main/Day12%20-%20Text%20Jumping/readme.md "Dia 12 - Text Jumping").
+13. [Dia 13 - Circular Progress Bar](https://github.com/diegobaena89/CSS30Days/tree/main/13Day%20-%20Pure%20CSS%20Circular%20Progress%20Bar "Dia 13 - Circular Progress Bar").
 
 
 
@@ -143,3 +144,13 @@
 - [x] manipulação de @keyframes
 
 ![textJumping](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/Day12%20-%20Text%20Jumping/text.gif)
+
+---
+
+### Circular Progress Bar
+
+- [x] transform translateY
+- [x] manipulação de transitions
+- [x] propriedade stroke
+
+![bar](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/13Day%20-%20Pure%20CSS%20Circular%20Progress%20Bar/bar.gif)
