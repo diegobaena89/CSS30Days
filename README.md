@@ -18,6 +18,7 @@
 13. [Dia 13 - Circular Progress Bar](https://github.com/diegobaena89/CSS30Days/tree/main/13Day%20-%20Pure%20CSS%20Circular%20Progress%20Bar "Dia 13 - Circular Progress Bar").
 14. [Dia 14 - Solar Eclipse](https://github.com/diegobaena89/CSS30Days/tree/main/14Day%20-%20Solar%20Eclipse "Dia 14 - Solar Eclipse").
 15. [Dia 15 - 3D Nav Bar](https://github.com/diegobaena89/CSS30Days/tree/main/15Day%20-%20Nav%20Bar "Dia 15 - 3D Nav Bar").
+16. [Dia 16 - Glowing Icon Hover](https://github.com/diegobaena89/CSS30Days/blob/main/16Day%20-%20Glowing%20Icon%20hover/readme.md "Dia 16 - Glowing Icon Hover").
 
 
 
@@ -174,3 +175,12 @@
 - [x] webkit e transitions
 
 ![3dnavbar](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/15Day%20-%20Nav%20Bar/navbar.gif)
+
+---
+
+### Glowing Icon Hover
+
+- [x] animations, transitions
+- [x] font awesome icons
+
+![glow](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/16Day%20-%20Glowing%20Icon%20hover/glw.gif)
