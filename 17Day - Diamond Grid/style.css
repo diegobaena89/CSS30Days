@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #000;
+}
+
+ul {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    padding: 0;
+    width: 600px;
+    height: 150px;
+}
+
+ul li {
+    list-style: none;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background: #000;
+    margin: -100px;
+    transform: rotate(45deg);
+    transition: .5s;
+    overflow: hidden;
+    opacity: .5;
+}
+
+ul li:hover {
+    opacity: 1;
+    box-shadow: 0 0 25px #eb5e26;
+}
+
+ul li.item1 {
+    top: 0;
+    left: 0;
+}
+
+ul li.item2 {
+    bottom: 0;
+    left: 25%;
+}
+
+ul li.item3 {
+    top: 0;
+    left: 50%;
+}
+
+ul li.item4 {
+    bottom: 0;
+    left: 75%;
+}
+
+ul li.item5 {
+    top: 0;
+    left: 100%;
+}
+
+ul li .bg {
+    width: 100%;
+    height: 100%;
+    transform: rotate(-45deg) scale(1.42);
+}
+
+ul li.item1 .bg {
+    background: url('./bg1.jpg');
+    background-size: cover;
+}
+
+ul li.item2 .bg {
+    background: url('./bg2.jpg');
+    background-size: cover;
+}
+ul li.item3 .bg {
+    background: url('./bg3.jpg');
+    background-size: cover;
+}
+ul li.item4 .bg {
+    background: url('./bg4.jpg');
+    background-size: cover;
+}
+ul li.item5 .bg {
+    background: url('./bg5.jpg');
+    background-size: cover;
+}
