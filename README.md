@@ -84,7 +84,7 @@
 - [x] uso do object-fit em css para o ajuste do vídeo com o texto
       
       
-![video](https://github.com/diegobaena89/CSS30Days/tree/main/06Day%20-%20Video%20inside%20Text)
+![video](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/06Day%20-%20Video%20inside%20Text/athens3.gif)
 
 ---
 
@@ -121,7 +121,7 @@
 
 ---
 
-### Rainy Background
+### Dia 10 - Rainy Background
 
 - [x] Em Css puro
 - [x] Uso de animation linear e infinite
@@ -132,7 +132,7 @@
 
 ---
 
-### Cloud Animation
+### Dia 11 - Cloud Animation
 
 - [x] Manipulação de Animations e Keyframes
 
@@ -140,7 +140,7 @@
 
 ---
 
-### Text Jumping
+### Dia 12 - Text Jumping
 
 - [x] animation bounce eade infinite alternate entre os elementos span do html
 - [x] text shadow
@@ -151,7 +151,7 @@
 
 ---
 
-### Circular Progress Bar
+### Dia 13 - Circular Progress Bar
 
 - [x] transform translateY
 - [x] manipulação de transitions
@@ -161,7 +161,7 @@
 
 ---
 
-### Solar Eclipse
+### Dia 14 - Solar Eclipse
 
 - [x] explorando os conceitos de transform translate, animation e z-index
 - [x] manipulação de keyframes
@@ -170,7 +170,7 @@
 
 ---
 
-### 3D Nav Bar
+### Dia 15 - 3D Nav Bar
 
 - [x] Manipulação das propriedades transform rotateX e rotateY, Skew
 - [x] webkit e transitions
@@ -179,7 +179,7 @@
 
 ---
 
-### Glowing Icon Hover
+### Dia 16 - Glowing Icon Hover
 
 - [x] animations, transitions
 - [x] font awesome icons
@@ -188,7 +188,7 @@
 
 ---
 
-### Diamond Grid
+### Dia 17 - Diamond Grid
 
 - [x] transform rotate(45deg)
 - [x] opacity
