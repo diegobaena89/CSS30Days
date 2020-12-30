@@ -19,6 +19,7 @@
 14. [Dia 14 - Solar Eclipse](https://github.com/diegobaena89/CSS30Days/tree/main/14Day%20-%20Solar%20Eclipse "Dia 14 - Solar Eclipse").
 15. [Dia 15 - 3D Nav Bar](https://github.com/diegobaena89/CSS30Days/tree/main/15Day%20-%20Nav%20Bar "Dia 15 - 3D Nav Bar").
 16. [Dia 16 - Glowing Icon Hover](https://github.com/diegobaena89/CSS30Days/blob/main/16Day%20-%20Glowing%20Icon%20hover/readme.md "Dia 16 - Glowing Icon Hover").
+17. [Dia 17 - Diamond Grid](https://github.com/diegobaena89/CSS30Days/blob/main/17Day%20-%20Diamond%20Grid/readme.md "Dia 17 - Diamond Grid").
 
 
 
@@ -184,3 +185,13 @@
 - [x] font awesome icons
 
 ![glow](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/16Day%20-%20Glowing%20Icon%20hover/glw.gif)
+
+---
+
+### Diamond Grid
+
+- [x] transform rotate(45deg)
+- [x] opacity
+- [x] glow in hover
+
+![glow](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/17Day%20-%20Diamond%20Grid/diamond.gif)
