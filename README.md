@@ -20,7 +20,8 @@
 15. [Dia 15 - 3D Nav Bar](https://github.com/diegobaena89/CSS30Days/tree/main/15Day%20-%20Nav%20Bar "Dia 15 - 3D Nav Bar").
 16. [Dia 16 - Glowing Icon Hover](https://github.com/diegobaena89/CSS30Days/blob/main/16Day%20-%20Glowing%20Icon%20hover/readme.md "Dia 16 - Glowing Icon Hover").
 17. [Dia 17 - Diamond Grid](https://github.com/diegobaena89/CSS30Days/blob/main/17Day%20-%20Diamond%20Grid/readme.md "Dia 17 - Diamond Grid").
-18. [Dia 17 - Creative Div Box](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/18Day%20-%20Creative%20Div%20Box/divbox.gif "Dia 18 - Creative Div Box").
+18. [Dia 18 - Creative Div Box](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/18Day%20-%20Creative%20Div%20Box/divbox.gif "Dia 18 - Creative Div Box").
+19. [Dia 19 - Glowing Dots](https://github.com/diegobaena89/CSS30Days/tree/main/19Day%20-%20Glowing%20Dots "Dia 19 - Glowing Dots").
 
 
 
@@ -205,3 +206,12 @@
 - [x] transform e transition
 
 ![Animated](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/18Day%20-%20Creative%20Div%20Box/divbox.gif)
+
+---
+
+### Dia 19 - Glowing Dots
+
+- [x] nth-child para manipulação de elementos
+- [x] animation e keyframes
+
+![glowingdots](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/19Day%20-%20Glowing%20Dots/glowingdtos.gif)
