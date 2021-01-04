@@ -22,6 +22,7 @@
 17. [Dia 17 - Diamond Grid](https://github.com/diegobaena89/CSS30Days/blob/main/17Day%20-%20Diamond%20Grid/readme.md "Dia 17 - Diamond Grid").
 18. [Dia 18 - Creative Div Box](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/18Day%20-%20Creative%20Div%20Box/divbox.gif "Dia 18 - Creative Div Box").
 19. [Dia 19 - Glowing Dots](https://github.com/diegobaena89/CSS30Days/tree/main/19Day%20-%20Glowing%20Dots "Dia 19 - Glowing Dots").
+20. [Dia 20 - Wavy Background](https://github.com/diegobaena89/CSS30Days/tree/main/20Day%20-%20Wavy%20Background "Dia 20 - Wavy Background").
 
 
 
@@ -215,3 +216,13 @@
 - [x] animation e keyframes
 
 ![glowingdots](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/19Day%20-%20Glowing%20Dots/glowingdtos.gif)
+
+---
+
+### Dia 20 - Wavy Background
+
+- [x] manipulação de keyframes e animation-delay
+- [x] opacity
+- [x] animation
+
+![waves](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/20Day%20-%20Wavy%20Background/waves.gif)
