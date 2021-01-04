@@ -1,4 +1,4 @@
-# 🚀 CSS30Days 🚀
+# 🚀 CSS30Days 🚀 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ## Desafio CSS 30 - 1 projeto por dia
 
 ---
