@@ -25,6 +25,7 @@
 18. [Dia 18 - Creative Div Box](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/18Day%20-%20Creative%20Div%20Box/divbox.gif "Dia 18 - Creative Div Box").
 19. [Dia 19 - Glowing Dots](https://github.com/diegobaena89/CSS30Days/tree/main/19Day%20-%20Glowing%20Dots "Dia 19 - Glowing Dots").
 20. [Dia 20 - Wavy Background](https://github.com/diegobaena89/CSS30Days/tree/main/20Day%20-%20Wavy%20Background "Dia 20 - Wavy Background").
+21. [Dia 21 - Ring of Fire](https://github.com/diegobaena89/CSS30Days/tree/main/21Day%20-%20Ring%20of%20Fire "Dia 21 - Ring of Fire").
 
 
 
@@ -228,3 +229,13 @@
 - [x] animation
 
 ![waves](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/20Day%20-%20Wavy%20Background/waves.gif)
+
+---
+
+### Dia 21 - Ring of Fire
+
+- [x] baseFrequency e animate
+- [x] -webkit
+- [x] animation e Keyframes
+
+![ring](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/21Day%20-%20Ring%20of%20Fire/fire.gif)
