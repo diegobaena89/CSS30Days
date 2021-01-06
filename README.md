@@ -26,6 +26,7 @@
 19. [Dia 19 - Glowing Dots](https://github.com/diegobaena89/CSS30Days/tree/main/19Day%20-%20Glowing%20Dots "Dia 19 - Glowing Dots").
 20. [Dia 20 - Wavy Background](https://github.com/diegobaena89/CSS30Days/tree/main/20Day%20-%20Wavy%20Background "Dia 20 - Wavy Background").
 21. [Dia 21 - Ring of Fire](https://github.com/diegobaena89/CSS30Days/tree/main/21Day%20-%20Ring%20of%20Fire "Dia 21 - Ring of Fire").
+22. [Dia 22 - Isometric Social Media Icons](https://github.com/diegobaena89/CSS30Days/tree/main/22Day%20-%20CSS%20Isometric%20Social%20Media%20Icons "Dia 22 - Isometric Social Media Icons").
 
 
 
@@ -239,3 +240,13 @@
 - [x] animation e Keyframes
 
 ![ring](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/21Day%20-%20Ring%20of%20Fire/fire.gif)
+
+---
+
+### Dia 22 - Isometric Social Media Icons
+
+- [x] transform translate
+- [x] transform perspective, rotate, skew , translate
+- [x] after and before
+
+![icons](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/22Day%20-%20CSS%20Isometric%20Social%20Media%20Icons/icons.gif)
