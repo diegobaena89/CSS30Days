@@ -27,6 +27,7 @@
 20. [Dia 20 - Wavy Background](https://github.com/diegobaena89/CSS30Days/tree/main/20Day%20-%20Wavy%20Background "Dia 20 - Wavy Background").
 21. [Dia 21 - Ring of Fire](https://github.com/diegobaena89/CSS30Days/tree/main/21Day%20-%20Ring%20of%20Fire "Dia 21 - Ring of Fire").
 22. [Dia 22 - Isometric Social Media Icons](https://github.com/diegobaena89/CSS30Days/tree/main/22Day%20-%20CSS%20Isometric%20Social%20Media%20Icons "Dia 22 - Isometric Social Media Icons").
+23. [Dia 23 - Glowing Square Animation](https://github.com/diegobaena89/CSS30Days/tree/main/23Day%20-%20Glowing%20square%20Animation "Dia 23 - Glowing Square Animation").
 
 
 
@@ -250,3 +251,12 @@
 - [x] after and before
 
 ![icons](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/22Day%20-%20CSS%20Isometric%20Social%20Media%20Icons/icons.gif)
+
+---
+
+### Dia 23 - Glowing Square Animation
+
+- [x] animation-delay
+- [x] keyframes, transform, scaleY
+
+![square](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/23Day%20-%20Glowing%20square%20Animation/square.gif)
