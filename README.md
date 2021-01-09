@@ -29,6 +29,7 @@
 22. [Dia 22 - Isometric Social Media Icons](https://github.com/diegobaena89/CSS30Days/tree/main/22Day%20-%20CSS%20Isometric%20Social%20Media%20Icons "Dia 22 - Isometric Social Media Icons").
 23. [Dia 23 - Glowing Square Animation](https://github.com/diegobaena89/CSS30Days/tree/main/23Day%20-%20Glowing%20square%20Animation "Dia 23 - Glowing Square Animation").
 24. [Dia 24 - Rotate Animation](https://github.com/diegobaena89/CSS30Days/tree/main/24Day%20-%203D%20Rotation "Dia 24 - Rotate Animation").
+25. [Dia 25 - Flight Loader Animation](https://github.com/diegobaena89/CSS30Days/tree/main/25Day%20-%20Flight%20Loader%20Animation "Dia 25 - Flight Loader Animation").
 
 
 
@@ -271,3 +272,12 @@
 - [x] @keyframes
 
 ![rotate](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/24Day%20-%203D%20Rotation/rotate.gif)
+
+---
+
+### Dia 25 - https://github.com/diegobaena89/CSS30Days/tree/main/25Day%20-%20Flight%20Loader%20Animation
+
+- [x] span
+- [x] manipulação de keyframes e animation-delay
+
+![rocket](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/25Day%20-%20Flight%20Loader%20Animation/loader.gif)
