@@ -30,6 +30,7 @@
 23. [Dia 23 - Glowing Square Animation](https://github.com/diegobaena89/CSS30Days/tree/main/23Day%20-%20Glowing%20square%20Animation "Dia 23 - Glowing Square Animation").
 24. [Dia 24 - Rotate Animation](https://github.com/diegobaena89/CSS30Days/tree/main/24Day%20-%203D%20Rotation "Dia 24 - Rotate Animation").
 25. [Dia 25 - Flight Loader Animation](https://github.com/diegobaena89/CSS30Days/tree/main/25Day%20-%20Flight%20Loader%20Animation "Dia 25 - Flight Loader Animation").
+25. [Dia 26 - Black & White Text](https://github.com/diegobaena89/CSS30Days/tree/main/26Day%20-%20Black%20and%20White%20Text "Dia 26 - Black & White Text").
 
 
 
@@ -281,3 +282,13 @@
 - [x] manipulação de keyframes e animation-delay
 
 ![rocket](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/25Day%20-%20Flight%20Loader%20Animation/loader.gif)
+
+---
+
+### Dia 26 - Black & White Text
+
+- [x] pointer-events
+- [x] jQuery
+- [x] mix-blend-mode
+
+![bandw](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/26Day%20-%20Black%20and%20White%20Text/bandw.gif)
