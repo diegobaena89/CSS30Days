@@ -32,6 +32,7 @@
 25. [Dia 25 - Flight Loader Animation](https://github.com/diegobaena89/CSS30Days/tree/main/25Day%20-%20Flight%20Loader%20Animation "Dia 25 - Flight Loader Animation").
 26. [Dia 26 - Black & White Text](https://github.com/diegobaena89/CSS30Days/tree/main/26Day%20-%20Black%20and%20White%20Text "Dia 26 - Black & White Text").
 27. [Dia 27 - Modern Loader](https://github.com/diegobaena89/CSS30Days/tree/main/27Day%20-%20Modern%20Loader "Dia 27 - Modern Loader").
+28. [Dia 28 - Driving Car](https://github.com/diegobaena89/CSS30Days/tree/main/28Day%20-%20Driving%20Car "Dia 28 - Driving Car").
 
 
 
@@ -303,3 +304,12 @@
 - [x] @keyframes
 
 ![loader](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/27Day%20-%20Modern%20Loader/loader.gif)
+
+---
+
+### Dia 28 - Driving Car
+
+- [x] animation and keyframes
+- [x] background repeat-x
+
+![car](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/28Day%20-%20Driving%20Car/car.gif)
