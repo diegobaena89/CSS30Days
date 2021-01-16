@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+
+body {
+    font-family: 'Rubik Mono One', sans-serif;
+    background-color: #fff99f;
+    padding: 120px;
+    text-align: center;
+}
+
+.words {
+    color: #fff99f;
+    font-size: 0;
+    line-height: 1;
+}
+
+.words span {
+    font-size: 10vh;
+    display: inline-block;
+    animation: move 2s ease-in-out infinite;
+}
+
+/* Create Animation */
+@keyframes move {
+    0%
+    {
+        transform: translate(-33%,0)
+    }
+    50%
+    {
+        text-shadow: 0 15px 40px rgba(0,0,0,0.6);
+    }
+    100%
+    { 
+        transform: translate(33%,0);
+    }
+}
+
+.words span:nth-child(2){animation-delay: .5s;}
+.words span:nth-child(3){animation-delay: 1s;}
+.words span:nth-child(4){animation-delay: 1.5s;}
