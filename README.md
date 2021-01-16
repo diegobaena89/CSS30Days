@@ -34,6 +34,7 @@
 27. [Dia 27 - Modern Loader](https://github.com/diegobaena89/CSS30Days/tree/main/27Day%20-%20Modern%20Loader "Dia 27 - Modern Loader").
 28. [Dia 28 - Driving Car](https://github.com/diegobaena89/CSS30Days/tree/main/28Day%20-%20Driving%20Car "Dia 28 - Driving Car").
 29. [Dia 29 - Neon Light Text](https://github.com/diegobaena89/CSS30Days/blob/main/29Day%20-%20Neon%20Light%20Text/readme.md "Dia 29 - Neon Light Text").
+30. [Dia 30 - Text Soft Appear](https://github.com/diegobaena89/CSS30Days/blob/main/30Day%20-%20TheEnd%20Text%20Soft/readme.md "Dia 30 - Text Soft Appear").
 
 
 
@@ -322,3 +323,12 @@
 - [x] animations e keyframes
 
 ![neon](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/29Day%20-%20Neon%20Light%20Text/neon.gif)
+
+---
+
+### Text Soft Appear
+
+- [x] nth-child
+- [x] keyframes e animations
+
+![txt](https://raw.githubusercontent.com/diegobaena89/CSS30Days/main/30Day%20-%20TheEnd%20Text%20Soft/theend.gif)
