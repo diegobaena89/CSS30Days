@@ -1,6 +1,7 @@
 # 🚀 CSS30Days 🚀 
 
-O tutorial dos projetos pode ser encontrado no canal OnlineTutorials no youtube, clique ![link](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
+O tutorial dos projetos pode ser encontrado no canal OnlineTutorials no youtube, clique ![link](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog).
+Os projetos não são de minha autoria.
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ## Desafio CSS 30 - 1 projeto por dia
